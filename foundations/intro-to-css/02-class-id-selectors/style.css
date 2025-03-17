@@ -1,0 +1,17 @@
+#one{
+    color: blue;
+    font-size: 36px;
+}
+.paragraph{
+    background-color: lightpink;
+    font-family: Verdana,DejaVu Sans,sans-serif;
+}
+.paragraph.three{
+    font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
